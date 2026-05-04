@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "smithery": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli",
+        "mcp",
+        "start"
+      ]
+    }
+  }
+}
